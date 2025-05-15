@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Nguyễn Văn A",
+      "email": "vana@example.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Trần Thị B",
+      "email": "thib@example.com"
+    },
+    {
+      "id": "d6e4",
+      "fullName": "Duong Nguyen",
+      "email": "hduongduong1701@gmail.com",
+      "phone": "0986549132",
+      "gender": "male",
+      "userName": "123455",
+      "password": "123455"
+    },
+    {
+      "id": "f504",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "gender": "male",
+      "userName": "123455",
+      "password": "123455"
+    }
+  ]
+}
